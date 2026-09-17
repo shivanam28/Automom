@@ -2,7 +2,7 @@
 
 **AI-powered meeting minutes generator.** Upload a raw meeting transcript, and Automom turns it into a structured summary, decisions, action items, and keywords — downloadable as a professional PDF in seconds.
 
-🔗 **Live app:** [automom.vercel.app](#)
+🔗 **Live app:** [automom.vercel.app](https://automom.vercel.app/)
 
 ---
 
